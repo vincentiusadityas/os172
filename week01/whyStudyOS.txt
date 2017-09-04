@@ -1,1 +1,3 @@
 #vincentiusadityas
+
+We have to study Operating System because it is needed. First of all, Pak Ibam jokingly said we need to study it because if not, we won't be able to graduate(lol). But i think, the main reason is that OS is very important key part to computer system. It enables applications and their users to interact with the various hardware components including the hard disc, network, graphics card and memory. OS is like the backbone of computer system. Everything runs on it.
