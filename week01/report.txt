@@ -1,0 +1,4 @@
+#Vincentius Aditya Sundjaja
+Week01
+This week, i learn to use github(how to add, commit, push, and pull). I also learn other commands such us mkdir, rm, touch, cd, vi, etc.
+I also learn a bit about the importance of OS and what we will study in this class.
