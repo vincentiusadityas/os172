@@ -12,3 +12,5 @@ w00-170905-20-LR-Understanding Intellectual Property Right(IPR) from google and
 w00-170905-20-LR-Understanding Intellectual Property Right(IPR) from google and               OLD 02-HKI
 w00-170905-21-LR-Understanding the differences between free software and open 
 	      source from google(https://www.whitesourcesoftware.com/whitesource              -blog/open-source-free-software/) and OLD 02-HKI
+w00-170906-21-LR-Answering some questions in 196.pdf
+w00-170906-22-LR-Answering some questions in 196.pdf
