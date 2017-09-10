@@ -1,3 +1,5 @@
 w01-170907-13-LR-Learning Intellectual Property Right(IPR) from lecturer
 w01-170907-13-LR-Watching demo of Scripting from lecturer
 w01-170907-14-LR-Watching demo of Scripting from lecturer
+w01-170910-13-LR-Trying demo week01-scripting
+w01-170910-14-LR-Reading OLD 02-Scripting-1
