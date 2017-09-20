@@ -5,3 +5,6 @@ w02-170913-22-LR-Reading books and making memos for week02
 w02-170914-13-LR-Listening to lecturer about protection and security
 w02-170914-13-LR-Listening to lecturer about protection and security
 w02-170914-14-LR-Listening to lecturer about protection and security
+w02-170919-13-LR-Listening to lecturer about C-Language
+w02-170919-13-LR-Listening to lecturer about C-Language
+w02-170919-14-LR-Listening to lecturer about C-Language
